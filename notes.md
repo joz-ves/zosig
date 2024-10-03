@@ -63,3 +63,8 @@ ________________________________________________________________________________
 
 3.hodina
 prihlasili sme sa na stranke versel a importovali git
+mali sme errory cize sme sme vyplnali tsx subory upravenym zakladnym layoutom aby z toho boli moduly
+taktie sme pridali do components NavBar a zmenili layout+ home tsx page
+___________________________________________________________________________________________________________
+
+opravili sme build a spustili ho, vsetko funguje
