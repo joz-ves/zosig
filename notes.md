@@ -44,14 +44,22 @@ export default function <Názov>() {
         #################Kód stránky####################
     );
 }
-
-
+___________________________________________________________________________________________________________
 
 2.hodina
 Ucet: joz-ves
 Email: jozefveselka@s.zochova.sk
+___________________________________________________________________________________________________________
 
 projekt sa robi: kostra-->subory--> dizajn-->localhost --> github --> production server
 pridavala sa kostra gdpr, hladanie, notifikacie, o-nas, podmienky, pridat, prispevok a profil
+___________________________________________________________________________________________________________
+
+git init
+git branch -m meno branchu
+git config –-global user.name “username“ 
+git config –-global user.email "mail"
+___________________________________________________________________________________________________________
 
 3.hodina
+prihlasili sme sa na stranke versel a importovali git
