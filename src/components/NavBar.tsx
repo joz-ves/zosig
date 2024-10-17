@@ -1,5 +1,5 @@
 "use client"; // Add this at the top
-
+//jozef veselka
 import * as React from 'react';
 import { useState } from 'react';
 import { useRouter } from 'next/navigation'; // For Next.js routing
@@ -13,7 +13,7 @@ import ArticleIcon from '@mui/icons-material/Article';
 export default function SimpleBottomNavigation() {
   const [value, setValue] = useState(0);
   const router = useRouter(); // Client-side routing
-
+//jozef veselka
   return (
     <Box sx={{ width: 500 }}>
       <BottomNavigation
@@ -23,8 +23,8 @@ export default function SimpleBottomNavigation() {
           setValue(newValue);
           // Add navigation logic
           if (newValue === 0) router.push('/');
-          if (newValue === 1) router.push('/profile');
-          if (newValue === 2) router.push('/posts');
+          if (newValue === 1) router.push('/profil');
+          if (newValue === 2) router.push('/prispevok');
         }}
       >
         <BottomNavigationAction label="Domov" icon={<HomeIcon />} />
@@ -34,3 +34,4 @@ export default function SimpleBottomNavigation() {
     </Box>
   );
 }
+//jozef veselka
