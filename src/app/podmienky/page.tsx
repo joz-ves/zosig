@@ -8,6 +8,9 @@ export const metadata = { title: "Podmienky | ZoškaSnap" };
 
 export default function TermsConditions() {
 
+
+
+  
   return (
     <Container>
       <Typography> Podmienky používania </Typography>
