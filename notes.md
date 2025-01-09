@@ -67,4 +67,8 @@ mali sme errory cize sme sme vyplnali tsx subory upravenym zakladnym layoutom ab
 taktie sme pridali do components NavBar a zmenili layout+ home tsx page
 ___________________________________________________________________________________________________________
 
-opravili sme build a spustili ho, vsetko funguje
+opravili sme build a spustili ho, vsetko funguje  
+___________________________________________________________________________________________________________
+spravili sme prism a databazu
+___________________________________________________________________________________________________________
+nanovo sme spravili prihlasenie
